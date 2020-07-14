@@ -1,3 +1,6 @@
+[![Twitter@u7693](https://img.shields.io/twitter/follow/u7693)](https://twitter.com/u7693)
+[![Keybase@u7693](https://img.shields.io/keybase/pgp/u7693)](https://keybase.io/u7693)
+
 ### Hi there 👋
 
 <!--
