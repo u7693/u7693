@@ -1,19 +1,13 @@
-[![Twitter@u7693](https://img.shields.io/twitter/follow/u7693)](https://twitter.com/u7693)
-[![Keybase@u7693](https://img.shields.io/keybase/pgp/u7693)](https://keybase.io/u7693)
-
-### Hi there 👋
-
-<!--
-**u7693/u7693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+    <a href="https://twitter.com/u7693">
+        <img width="26" height="26" src="https://raw.githubusercontent.com/u7693/u7693/master/img/twitter.svg?raw=true">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://keybase.io/u7693">
+        <img width="26" height="26" src="https://raw.githubusercontent.com/u7693/u7693/master/img/keybase.svg?raw=true">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/u7693">
+        <img width="26" height="26" src="https://raw.githubusercontent.com/u7693/u7693/master/img/github.svg?raw=true">
+    </a>
+</p>
